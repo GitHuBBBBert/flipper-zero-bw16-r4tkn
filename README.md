@@ -112,14 +112,17 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 
 Got questions, ideas, or want to collaborate?  
 Drop an email at **web.r4tkn@gmail.com**
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/1.png)
 
 
 ## PCB  
 
 📦 Local Stocks Available! 🇵🇭 Philippines, 🇸🇬 Singapore, 🇲🇾 Malaysia
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![PCB](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/PCB/9.png)
+
+
 
