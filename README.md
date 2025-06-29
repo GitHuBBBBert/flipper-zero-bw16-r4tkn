@@ -4,6 +4,10 @@ This firmware turns your Flipper Zero (paired with BW16) into a powerful Wi-Fi t
 Includes tools like **DEAUTH ALL**, **Targeted Disruption (Per Station / Client)**, with upcoming features like **Random SSID Spam**, **Beacon Floods**, and **Handshake Capture**.  
 Perfect for Wi-Fi experiments, stress testing, and educational network security research.
 
+> ⚠️ **Important Note**  
+> 🔴 It **may not function properly on modern 5GHz routers/modems**, which are not vulnerable to typical deauth or beacon flood techniques due to band separation and stricter security protocols.
+
+
 > ⚠️ **License & Disclaimer**  
 > This software is provided "as-is" for educational and research use only. The author disclaims all liability for misuse or damage incurred from its use. Always obtain proper authorization before testing any network security tool.
 
