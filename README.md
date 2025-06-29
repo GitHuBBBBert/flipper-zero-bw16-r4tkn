@@ -113,15 +113,20 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 Got questions, ideas, or want to collaborate?  
 Drop an email at **web.r4tkn@gmail.com**
 
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://coff.ee/rusn)
 ## Screenshots
 
 ![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/1.png)
+![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/4.png)
+![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/7.png)
 
 
 ## PCB  
 
 📦 Local Stocks Available! 🇵🇭 Philippines, 🇸🇬 Singapore, 🇲🇾 Malaysia
 
+![PCB](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/PCB/10.png)
+![PCB](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/PCB/8.png)
 ![PCB](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/PCB/9.png)
 
 
