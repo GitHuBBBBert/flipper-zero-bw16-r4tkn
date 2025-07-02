@@ -66,21 +66,12 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 ### 📥 Flashing Instructions (BW16)
 
 1. **Run as Administrator**  
-   - Right-click the **Image Tool** and select `Run as administrator`.
-
-2. **Select Chip Type**  
-   - Click `Chip Select` at the top.  
-   - Choose **`AmebaD (8721D)`**.
+   - Right-click the **R4TKN FLASHER** and select `Run as administrator`.
 
 3. **Configure Serial Port**  
-   - Go to the `SERIAL` section.  
+   - Go to the `COM Port` section.  
    - Under `COM`, select the correct port for your connected **BW16**.  
    - Leave the rest of the settings as default.
-
-4. **Load the Firmware**  
-   - In the `Flash Download` section, scroll to the **last row**.  
-   - Check the box to enable it.  
-   - Click `Browse`, locate and select your `.bin` file (e.g. `km0_km4_image2.bin`).
 
 5. **Put BW16 in Flash Mode & Start Flashing**  
    - If your BW16 is **not already in flash mode**, do the following:  
@@ -88,7 +79,7 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
      - While holding BOOT, **press and release RESET**.  
      - Release the BOOT button.  
      - The BW16 is now in **flash mode**.  
-   - Now click the `Download` button to flash the firmware.
+   - Now click the `Run Upload` button to flash the firmware.
 
 ### 🛠 Step-by-Step Instructions for Flipper Zero
 
