@@ -64,6 +64,8 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 ## How to Upload Firmware 
 
 ### 📥 Flashing Instructions (BW16)
+![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/flasher1.png)
+
 
 1. **Run as Administrator**  
    - Right-click the **R4TKN FLASHER** and select `Run as administrator`.
