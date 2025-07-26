@@ -44,6 +44,9 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 - 🚧 **BEACON + DEAUTH** *(In Progress)*  
   Will send fake beacon frames with deauth packets to simulate chaotic Wi-Fi environments.
 
+- 🚧 **NRF24 + 2.4GHZ (NO EXTRA ESP32)** *(In Progress)*  
+  🔥 BLE JM + WIFI JAM for 2.4 + 5GHZ DEAUTH 🔥
+
 - 🚧 **CAPTURE HANDSHAKE** *(Planned)*  
   Will enable WPA/WPA2 handshake capturing for research and testing.
   
