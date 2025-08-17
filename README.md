@@ -69,6 +69,9 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 ### 📥 Flashing Instructions (BW16)
 ![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/flasher1.png)
 
+## ⚠️ Important Note
+
+For those who already have an existing firmware installed on their BW16, it is recommended to erase the existing firmware first before flashing a new one. This helps avoid conflicts and ensures a clean installation.
 
 1. **Run as Administrator**  
    - Right-click the **R4TKN FLASHER** and select `Run as administrator`.
