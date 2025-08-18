@@ -11,6 +11,12 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 > ⚠️ **License & Disclaimer**  
 > This software is provided "as-is" for educational and research use only. The author disclaims all liability for misuse or damage incurred from its use. Always obtain proper authorization before testing any network security tool.
 
+## ⚠️ Known Issues
+
+> ❗ **Compatibility Notice**  
+> "It's not working on the other Flipper Zero BW16 Dev Board from Aliexpress or other store."
+
+Some third-party BW16 dev boards (often sold on AliExpress/other marketplaces) may use different pin mappings, bootloaders, or power/level shifting that **breaks flashing or runtime behavior** with this firmware.
 
 ## Acknowledgements
 
