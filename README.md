@@ -31,7 +31,11 @@ Some third-party BW16 dev boards (often sold on AliExpress/other marketplaces) m
 
  - [readme.so](https://github.com/octokatherine/readme.so)
 
-> 📎 Buy Here: [Elecrow](https://www.elecrow.com/flipper-zero-bw16-rtl8720dn-dual-band-wifi-board.html)
+
+
+⚠️ **Available Internationally**  
+
+ - Buy Here: [Elecrow](https://www.elecrow.com/flipper-zero-bw16-rtl8720dn-dual-band-wifi-board.html)
 
 ## Features
 
@@ -138,6 +142,7 @@ Drop an email at **web.r4tkn@gmail.com**
 ## PCB  
 
 📦 Local Stocks Available! 🇵🇭 Philippines, 🇸🇬 Singapore, 🇲🇾 Malaysia
+📦 Stocks Available Internationally via Buy Here: [Elecrow](https://www.elecrow.com/flipper-zero-bw16-rtl8720dn-dual-band-wifi-board.html)
 
 ![PCB](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/PCB/10.png)
 ![PCB](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/PCB/8.png)
