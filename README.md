@@ -68,6 +68,7 @@ Some third-party BW16 dev boards (often sold on AliExpress/other marketplaces) m
 | TX1            | (14) RX      |
 
 > 📎 Pinout reference credits: [gorebrau/delfyRTL](https://github.com/gorebrau/delfyRTL)
+> 📎 Buy Here: [Elecrow](https://www.elecrow.com/flipper-zero-bw16-rtl8720dn-dual-band-wifi-board.html)
 
 
 ## How to Upload Firmware 
