@@ -37,7 +37,7 @@ Some third-party BW16 dev boards (often sold on AliExpress/other marketplaces) m
 
 
 ⚠️ **Available Internationally**  
-
+ - This is already have an full working version of this firmware , not this repo
  - Buy Here: [Elecrow](https://www.elecrow.com/flipper-zero-bw16-rtl8720dn-dual-band-wifi-board.html)
 
 ## Features
